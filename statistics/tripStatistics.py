@@ -6,7 +6,7 @@ import xmltodict, json
 from lxml import etree
 from xml.sax import saxutils, make_parser, handler
 import io
-from app.database import DB
+from database import DB
 # import helperClasses as helperc
 # mpl.use('agg')
 class TripStatistics():
@@ -251,42 +251,6 @@ class VehInformationReader(handler.ContentHandler):
             self._Vehicle.scen_description = self._scenario_description
             self._vehList.append(self._Vehicle)
 
-
-# output the network statistics based on the sumo-statistics results
-def getStatisticsOutput(assignments, outputfile):
-    with open(outputfile, 'w') as foutveh:
-        '''
-        foutveh.write('average vehicular travel time(s) = the sum of all vehicular travel times / the number of vehicles\n')
-        foutveh.write('average vehicular travel length(m) = the sum of all vehicular travel lengths / the number of vehicles\n')
-        foutveh.write('average vehicular travel speed(m/s) = the sum of all vehicular travel speeds / the number of vehicles\n')
-        for method in assignments.itervalues():
-            foutveh.write('\nAssignment Method:%s\n' %method.label)
-            foutveh.write('- total number of vehicles:%s\n' %method.totalVeh)
-            foutveh.write('- total departure delay(s):%s, ' %method.totalDepartDelay)    
-            foutveh.write('- average departure delay(s):%s\n' %method.avgDepartDelay)
-            foutveh.write('- total waiting time(s):%s, ' %method.totalWaitTime)    
-            foutveh.write('- average vehicular waiting time(s):%s\n' %method.avgWaitTime)
-            foutveh.write('- total travel time(s):%s, ' % method.totalTravelTime)    
-            foutveh.write('- average vehicular travel time(s):%s\n' %method.avgTravelTime)
-            foutveh.write('- total travel length(m):%s, ' %method.totalTravelLength)
-            foutveh.write('- average vehicular travel length(m):%s\n' %method.avgTravelLength)
-            foutveh.write('- average vehicular travel speed(m/s):%s\n' %method.avgTravelSpeed)
-        '''
-        foutveh.write('<data>\n\t<items>')
-        # foutveh.write('average vehicular travel length(m) = the sum of all vehicular travel lengths / the number of vehicles\n')
-        for method in assignments.values():
-            foutveh.write('\n\t\t<item name="totalNumberOfVehicles">%d' % method.totalVeh + '</item>')
-            foutveh.write('\n\t\t<item name="totalDepartureDelay">%d' % method.totalDepartDelay + '</item>')
-            foutveh.write('\n\t\t<item name="averageDepartureDelay">%d' % method.avgDepartDelay + '</item>')
-            foutveh.write('\n\t\t<item name="totalWaitingTime">%d' % method.totalWaitTime + '</item>')
-            foutveh.write('\n\t\t<item name="averageVehicularWaitingTime">%d' % method.avgWaitTime + '</item>')
-            foutveh.write('\n\t\t<item name="totalTravelTime">%d' % method.totalTravelTime + '</item>')
-            foutveh.write('\n\t\t<item name="averageVehicularTravelTime">%d' % method.avgTravelTime + '</item>')
-            foutveh.write('\n\t\t<item name="totalTravelLength">%d' % method.totalTravelLength + '</item>')
-            foutveh.write('\n\t\t<item name="averageVehicularTravelLength">%d' % method.avgTravelLength + '</item>')
-            foutveh.write('\n\t\t<item name="averageVehicularTravelSpeed">%d' % method.avgTravelSpeed + '</item>')
-        foutveh.write('\n\t</items>\n</data>')
-        foutveh.close()
 #
 # def main():
 #     # TripStatistics("../data/input-statistics/small-extract-for-testing/trips.xml")

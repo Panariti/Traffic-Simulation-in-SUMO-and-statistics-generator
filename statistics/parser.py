@@ -1,6 +1,6 @@
 from lxml import etree
 import xmltodict, json
-from app.database import DB
+from database import DB
 
 def parse_and_save(filepath):
     entries_to_keep = {'id', 'traveltime', 'density', 'occupancy', 'waitingTime', 'speed'}

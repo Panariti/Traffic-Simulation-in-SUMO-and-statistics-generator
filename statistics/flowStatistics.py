@@ -8,7 +8,7 @@ import xmltodict, json
 
 import sys
 sys.path.append('C:\\Users\panar\PycharmProjects\Kirchheim4\ios19kirch-server\\flask\\app')
-from app.database import DB
+from database import DB
 
 def generate_save_statistics(simulation_id, scenario_id, scenario_description):
     # client = MongoClient('mongodb://localhost:27017')

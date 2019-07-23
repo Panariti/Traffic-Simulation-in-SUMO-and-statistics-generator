@@ -1,7 +1,6 @@
-from app.database import DB
+from database import DB
 import json
 from bson import ObjectId
-from ast import literal_eval
 
 class JSONEncoder(json.JSONEncoder):
     def default(self, o):

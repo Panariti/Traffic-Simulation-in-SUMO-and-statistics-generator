@@ -1,5 +1,4 @@
 import pymongo
-          
 
 class DB(object):
           

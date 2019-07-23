@@ -1,8 +1,8 @@
 from lxml import etree
 from bson.json_util import dumps
 import math
-from app.models.traffic_flow import TrafficFlow
-from app.database import DB
+#from app.models.traffic_flow import TrafficFlow
+from database import DB
 
 box_384_edges = ['486816973', '-486816973', '22327902#0', '-22327902#0', '22327902#1','-22327902#1','22327902#2','-22327902#2','22327902#3','-22327902#3','22327902#4','-34335059','34335064','-34335064','172675262#1','-172675262#1','172675262#0','-172675262#0'
            '171610162#3', '-172675260', '-171610162#2','171610162#2'
