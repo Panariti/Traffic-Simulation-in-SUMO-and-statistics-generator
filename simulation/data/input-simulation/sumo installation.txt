@@ -1,0 +1,16 @@
+# install sumo
+brew tap dlr-ts/sumo
+brew install sumo
+
+# possibly include environment variable (should not be needed for demo purpose though)
+export SUMO_HOME="/usr/local/Cellar/sumo/1.2.0/share/sumo"
+
+# xQuartz needs to be installed and possibly already opened; for it to open the simulation the documentation states to log in and out once (I suppose it means restart the terminal and / or computer)
+
+# kirchheim.sumocfg, gui-settings-dr.cfg, kirchheim.net.xml, kirchheim.rou.xml are needed
+
+# Start simulation GUI from command line: navigate to data/input-simulation folder on improve-simulation-visualisation branch
+# or just save folder from USB drive to presentation Mac
+
+# -g argument loads gui settings file
+sumo-gui -c kirchheim.sumocfg -g gui-settings-dr.cfg

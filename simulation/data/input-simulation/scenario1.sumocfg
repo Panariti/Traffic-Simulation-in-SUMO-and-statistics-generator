@@ -1,0 +1,15 @@
+<configuration>
+  <scenario id="1"/>
+  <input>
+    <net-file value="kirchheim-street-names.net.xml"/>
+    <route-files value="scenario1.rou.xml"/>
+    <gui-settings-file value="gui-settings-origin-dest-vehicles.cfg"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="10800"/>
+  </time>
+  <processing>
+    <ignore-junction-blocker value="1"/>
+  </processing>
+</configuration>

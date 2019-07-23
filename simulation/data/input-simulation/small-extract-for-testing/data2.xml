@@ -1,0 +1,284 @@
+<full-export>
+   <data timestep="3">
+
+    <vehicles>
+      <vehicle id="d" eclass="d" co2="d" co="d" hc="d"
+      nox="d" pmx="d" fuel="d" electricity="d" noise="d" route="d" type="d"
+      waiting="d" lane="d" pos_lane="d" speed="d"
+      angle="d" x="d" y="d"/>
+
+
+    </vehicles>
+
+   <edges>
+
+      <edge id=":3659704519_0" traveltime="2.37">
+                <lane id=":3659704519_0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="3.72" blabla = 'nothing' meanspeed="13.39" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+
+   </edges>
+
+   <tls>
+       <trafficlight id="0/0" state="GgGr"/>
+
+   </tls>
+
+</data>
+    <data timestep="5">
+
+    <vehicles>
+      <vehicle id="d" eclass="d" co2="d" co="d" hc="d"
+      nox="d" pmx="d" fuel="d" electricity="d" noise="d" route="d" type="d"
+      waiting="d" lane="d" pos_lane="d" speed="d"
+      angle="d" x="d" y="d"/>
+
+
+    </vehicles>
+
+   <edges>
+
+       <edge id=":1833998204_3" traveltime="2.56">
+                <lane id=":1833998204_3_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="4.33" meanspeed="15.59" occupancy="0.00" vehicle_count="0"/>
+       </edge>
+
+            <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+       <edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge><edge id=":3330548807_1" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="1" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+            <edge id=":7" traveltime="0.35">
+                <lane id=":3330548807_1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+                <lane id=":3330548807_1_1" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="22.22" meanspeed="79.99" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+
+   </edges>
+
+   <tls>
+       <trafficlight id="0/0" state="GgGr"/>
+
+   </tls>
+
+</data>
+
+
+</full-export>

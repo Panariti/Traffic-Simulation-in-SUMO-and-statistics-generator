@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 07/23/19 13:33:21 by Eclipse SUMO GUI Version 1.2.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="../data/input-simulation/kirchheim-street-names.net.xml"/>
+        <route-files value="../data/input-simulation/scenario2.rou.xml"/>
+        <additional-files value="../data/output-simulation/additional.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="../data/output-simulation/tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="10800"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="1"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="63311"/>
+    </traci_server>
+
+    <gui_only>
+        <gui-settings-file value="../data/input-simulation/gui-settings-origin-dest-vehicles.cfg"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+</tripinfos>

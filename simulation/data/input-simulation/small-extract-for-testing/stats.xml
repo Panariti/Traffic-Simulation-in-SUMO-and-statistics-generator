@@ -1,0 +1,14 @@
+<data>
+	<items>
+		<item name="totalNumberOfVehicles">2903</item>
+		<item name="totalDepartureDelay">693484</item>
+		<item name="averageDepartureDelay">238</item>
+		<item name="totalWaitingTime">693484</item>
+		<item name="averageVehicularWaitingTime">238</item>
+		<item name="totalTravelTime">4842050</item>
+		<item name="averageVehicularTravelTime">1667</item>
+		<item name="totalTravelLength">4311085</item>
+		<item name="averageVehicularTravelLength">1485</item>
+		<item name="averageVehicularTravelSpeed">6</item>
+	</items>
+</data>
