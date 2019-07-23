@@ -8,7 +8,7 @@ To run the script for a test just use the provided data. The net.net.xml file co
 The data.xml is the actual sumo output(a smaller chunk of the real sumo output size(more than 7GB)) that is converted to json format and saved into the MongoDB database.
 
 To use XML2JSON and SimVeh2TrafficFlow scripts:
-1. There is not need to have MongoDB installed
+1. There is no need to have MongoDB installed
 2. There is no need to have PyMongo installed.
 
 There are two scripts for producing statistics:
