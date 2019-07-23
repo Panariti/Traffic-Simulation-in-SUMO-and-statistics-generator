@@ -1,36 +1,6 @@
-#FROM ubuntu:18.04
-#
-#RUN apt-get update \
-#    && apt-get upgrade -y \
-#    && apt-get install -y \
-#    build-essential \
-#    ca-certificates \
-#    gcc \
-#    git \
-#    libpq-dev \
-#    make \
-#    python-pip \
-#    python2.7 \
-#    python2.7-dev \
-#    ssh \
-#    wget \
-#    g++ \
-#    libxerces-c-dev \
-#    sumo \
-#    sumo-tools \
-#    sumo-doc \
-#    && apt-get autoremove \
-#    && apt-get clean\
-#
-#
-#COPY . /
-#
-#CMD ["python", "execution/simulation_client.py", "data/input-simulation/kirchheim.sumocfg"]
-
-
 
 # dockerfile
-#Run it using docker run -ti -e DISPLAY=192.168.1.205:0.0 docker_image_name
+#Run it using docker run -ti -e DISPLAY=ip_address:0.0 docker_image_name
 #In Windows installing VcXsrv Windows X Server is needed for sumo-gui to work.
 # Use ubuntu as a parent image - 18.04 has LTS
 FROM ubuntu:18.04
