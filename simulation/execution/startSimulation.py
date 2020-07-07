@@ -127,13 +127,13 @@ def Main():
     # # Set the name of the XML file.
     #
     # trips_xml = "../data/output-simulation/" + "tripinfo.xml"
-    # url_trips = "http://ios19kirch.ase.in.tum.de/api/simulation/input/trip"
+    # url_trips = "http://base/api/simulation/input/trip"
     #
     # edge_lane_xml = "../data/output-simulation/" + "edgelane.xml"
-    # url_edge_lane = "http://ios19kirch.ase.in.tum.de/api/simulation/input/flow"
+    # url_edge_lane = "http://base/api/simulation/input/flow"
     #
     # edges_xml = "../data/output-simulation/" + "edge.xml"
-    # url_edges = "http://ios19kirch.ase.in.tum.de/api/simulation/input/mainroads"
+    # url_edges = "http://base/api/simulation/input/mainroads"
     #
     # headers = {
     #     'Content-Type': 'text/xml'
